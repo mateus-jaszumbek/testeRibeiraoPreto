@@ -1,0 +1,14 @@
+C:\programas\RibeiraoPreto\questao3\questao3\bin\Debug\net8.0\questao3.exe
+C:\programas\RibeiraoPreto\questao3\questao3\bin\Debug\net8.0\questao3.deps.json
+C:\programas\RibeiraoPreto\questao3\questao3\bin\Debug\net8.0\questao3.runtimeconfig.json
+C:\programas\RibeiraoPreto\questao3\questao3\bin\Debug\net8.0\questao3.dll
+C:\programas\RibeiraoPreto\questao3\questao3\bin\Debug\net8.0\questao3.pdb
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.AssemblyInfoInputs.cache
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.AssemblyInfo.cs
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.csproj.CoreCompileInputs.cache
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.dll
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\refint\questao3.dll
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.pdb
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\questao3.genruntimeconfig.cache
+C:\programas\RibeiraoPreto\questao3\questao3\obj\Debug\net8.0\ref\questao3.dll
